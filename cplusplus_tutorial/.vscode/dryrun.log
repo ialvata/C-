@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/ivo/Programming_Personal_Projects/C++/cplusplus_tutorial'
+make: Leaving directory '/home/ivo/Programming_Personal_Projects/C++/cplusplus_tutorial'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
